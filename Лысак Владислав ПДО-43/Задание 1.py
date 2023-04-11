@@ -7,9 +7,3 @@ if 1 <= i <= 100:
        print("Fizz")
    elif not i%5:
        print("Buzz")
-   else:
-       print(i)
-else:
-   print("Не правильное число")
-
-
